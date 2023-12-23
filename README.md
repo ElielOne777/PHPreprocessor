@@ -1,6 +1,7 @@
 # PHPreprocessor
 
 Curso de PHP 7.0
+
 Curso básico de PHP 7.0 do zero ao avançado, indo do básico ao profissional.
 
 📖 Documentação do PHP
@@ -13,6 +14,8 @@ Instalação e configuração do Apache, PHP e MySql.
 Comandos básicos do PHP
 
 <?php ?> echo
+
+
 
 E muito mais só neste Curso...
 <?php "Olá Mundo!"; ?>
